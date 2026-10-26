@@ -33,4 +33,4 @@
 
 ### 📬 Contact & Channels
 - **Portfolio**: [https://oloklkl.github.io/sj-Portfolio/pages/]
-- **Email**: [76seongju@gmail.com]
+- **Email**: [76seongju@gmail.com](mailto:76seongju@gmail.com)
